@@ -1,0 +1,1 @@
+This php script prints the number table of an input number up till 12.
